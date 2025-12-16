@@ -1,2 +1,3 @@
 ## About me
-- Final-year Artificial Intelligence student at Univerity of Information Technology, VNU-HCM
+- Recently graduated in Artificial Intelligence at Univerity of Information Technology, VNU-HCM
+- AI Intern in FPT Software Company
